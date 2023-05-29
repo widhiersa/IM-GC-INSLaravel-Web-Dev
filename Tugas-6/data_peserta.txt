@@ -1,0 +1,5 @@
+Data Peserta GC-INS Bootcamp Laravel Web Dev
+1. Nama	: Widhi Ersa Pratiwi
+2. Email	: widhi12315@gmail.com
+3. Akun Gitlab	: https://github.com/widhiersa
+4. Akun Telegram	: Widhiersa
